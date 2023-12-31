@@ -42,6 +42,12 @@
     php artisan key:generate
     ```
 
+    **Storage Link**
+    ```bash
+    php artisan storage:link
+    ```
+
+
 7. **Start XAMPP**
     - Buka XAMPP Control Panel
     - Start Apache dan MySQL
